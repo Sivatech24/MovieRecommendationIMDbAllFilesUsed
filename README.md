@@ -29,4 +29,4 @@ The **Movie Recommendation Website** is a dynamic and interactive platform desig
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/movie-recommendation-website.git](https://github.com/Sivatech24/MovieRecommendationImdbProject.git)
+   git clone https://github.com/Sivatech24/MovieRecommendationImdbProject.git
